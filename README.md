@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Redux, Node.js**
 
-- 👨‍💻 All of my projects are available at [my repo](my repo)
+- 👨‍💻 All of my projects are available at [my repo]
 
 - 💬 Ask me about **Python, Flask, MaterialUI, Postgres, Abap, Docker, Git**
 
