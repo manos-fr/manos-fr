@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
-<h3 align="center">I am a ReactJs enthusiast with experience in problem solving. Web development is my passion, both back-end & front-end, with familiarity to technologies like Flask, REST,PostgreSQL, microservices and ReactJS. I lovelearning and working with the latest technologies. My philosophy: Make it simple and elegant</h3>
+<h3 align="center">I am a ReactJS enthusiast with experience in problem solving. Web development is my passion, both back-end & front-end, with familiarity to technologies like Flask, REST, PostgreSQL, microservices and ReactJS. I love learning and working with the latest technologies. My philosophy: Make it simple and elegant</h3>
 
 - 🔭 I’m currently working on **Front-End Development SPA PWA with ReactJS**
 
