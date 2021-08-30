@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
-<h3 align="center">I am a ReactJS enthusiast with experience in problem solving. Web development is my passion, both back-end & front-end, with familiarity to technologies like Flask, REST, PostgreSQL, microservices and ReactJS. I love learning and working with the latest technologies. My philosophy: Make it simple and elegant</h3>
+<h3 align="center"> I love code. I also love building web applications and APIs that are fast, responsive, scalable, beautiful and easy to use. 
+Web development is my passion both back end and front end, having used full stack technologies like Flask, REST, React, MaterialUI, PostegreSQL, microservices, Docker, Git, Heroku so far. I cherish learning and working with the latest technologies.
+My philosophy: Make it simple and elegant</h3>
 
-- 🔭 I’m currently working on **Front-End Development SPA PWA with ReactJS**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **ReactJS, Redux, Node.js**
+- 🌱 I’m currently learning **Angular, Spring**
 
 - 👨‍💻 All of my projects are available at [my repo]
 
-- 💬 Ask me about **Python, Flask, MaterialUI, Postgres, Abap, Docker, Git**
+- 💬 Ask me about **Python, Flask, React, MaterialUI, Postgres, Abap, Docker, Git, Heroku**
 
 - 📫 How to reach me **manoskakarakis@gmail.com**
 
