@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
 <h3 align="center"> I love code. I also love building web applications and APIs that are fast, responsive, scalable, beautiful and easy to use. 
-Web development is my passion both back end and front end, having used full stack technologies like Flask, REST, React, MaterialUI, PostegreSQL, microservices, Docker, Git, Heroku so far. I cherish learning and working with the latest technologies.
+Web development is my passion both back end and front end, having used full stack technologies like Flask, SpringBoot, REST, React, MaterialUI, PostegreSQL, microservices, Docker, Git, Heroku so far. I cherish learning and working with the latest technologies.
 My philosophy: Make it simple and elegant</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
