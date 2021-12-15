@@ -9,7 +9,7 @@ My philosophy: Make it simple and elegant</h3>
 
 - 👨‍💻 All of my projects are available at [my repo]
 
-- 💬 Ask me about **Python, Flask, React, MaterialUI, Postgres, Abap, Docker, Git, Heroku**
+- 💬 Ask me about **Angular, Python, Flask, React, MaterialUI, Bootstrap, Postgres, Docker, Git, Heroku**
 
 - 📫 How to reach me **manoskakarakis@gmail.com**
 
