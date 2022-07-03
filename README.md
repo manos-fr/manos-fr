@@ -5,7 +5,7 @@ My philosophy: Make it simple and elegant</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Angular, NodeJS**
+- 🌱 I’m currently learning **Phaser, Ionic, NodeJS**
 
 - 👨‍💻 All of my projects are available at [my repo]
 
