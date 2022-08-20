@@ -5,11 +5,9 @@ My philosophy: Make it simple and elegant</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Phaser, Ionic, NodeJS**
-
 - 👨‍💻 All of my projects are available at [my repo]
 
-- 💬 Ask me about **Angular, NodeJs, Python, Flask, MaterialUI, PrimeNg, Postgres, Docker, Git**
+- 💬 Ask me about **Angular, Typescript, NodeJs, Python, Flask, PrimeNg, Ionic, Phaser, Postgres, Docker, Git**
 
 - 📫 How to reach me **manoskakarakis@gmail.com**
 
