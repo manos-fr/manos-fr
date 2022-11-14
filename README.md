@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
-<h3 align="center"> I love code. I also love building web applications and APIs that are fast, responsive, scalable, beautiful and easy to use. 
-Web development is my passion both back end and front end, having used full stack technologies like Angular, Typescript, Bootstrap, PrimeNg, Ionic, Phaser, Sass, React, Python, Flask, Postgres, Docker, Git, CLI so far. I cherish learning and working with the latest technologies.
+<h3 align="center"> I love code. 
+I also love building web applications and APIs that are fast, responsive, clean, beautiful and easy to use. 
+Web development is my passion both back end and front end, having used full stack technologies like Angular, Ionic, Phaser 3, PrimeNG, Bootstrap, NgRx, RxJS, Akita, Node, ExpressJS, Flask, REST, PostegreSQL, mongoDB, microservices, Nginx, Docker, Git and Heroku so far. 
+I cherish learning and working with the latest technologies.
 My philosophy: Make it simple and elegant</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [my repo]
 
-- 💬 Ask me about **Angular, Typescript, NodeJs, Python, Flask, PrimeNg, Ionic, Phaser, Postgres, Docker, Git**
+- 💬 Ask me about **Angular, Typescript, Node.js, Express.js, Python, Flask, PrimeNg, Ionic, Phaser, Postgres, Docker, Git**
 
 - 📫 How to reach me **manoskakarakis@gmail.com**
 
