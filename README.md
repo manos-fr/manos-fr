@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
 <h3 align="center"> I love code. 
 I also love building web applications and APIs that are fast, responsive, clean, beautiful and easy to use. 
-Web development is my passion both back end and front end, having used full stack technologies like Angular, Ionic, TailwindCSS, GraphQL, Redux, Zustand, NgRx, RxJS, Akita, Node, ExpressJS, Typesense, Hasura, PostegreSQL, mongoDB, Nginx and Docker.
+Web development is my passion both back end and front end, having used full stack technologies like React, Angular, Ionic, TailwindCSS, GraphQL, Redux, Zustand, NgRx, RxJS, Akita, Node, ExpressJS, Typesense, Hasura, PostegreSQL, mongoDB, Nginx and Docker.
 I cherish learning and working with the latest technologies.
 My philosophy: Make it simple and elegant</h3>
 
