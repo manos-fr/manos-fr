@@ -2,7 +2,7 @@
 
 **Senior Full Stack Developer** from Thessaloniki, Greece
 
-Building scalable, performant web and mobile applications with TypeScript, React, React Native, and Node.js. 6+ years shipping fast and debugging deep — now amplified by AI-augmented development and agentic workflows.
+Building scalable, performant web and mobile applications with TypeScript, React, React Native, and Node.js. 6+ years shipping fast and debugging deep — now amplified by AI-augmented development and agentic workflows. Hands-on with AI orchestration on the TypeScript backend — multi-agent architectures with **LangGraph** and durable, long-running workflows on **Temporal.io** (state management, error handling, human-in-the-loop validation).
 
 [![LinkedIn](https://img.shields.io/badge/-manos--kakarakis-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manos-kakarakis)
 [![Blog](https://img.shields.io/badge/-mancode.dev-000?style=flat&logo=googlechrome&logoColor=white)](https://mancode.dev/)
@@ -13,11 +13,11 @@ Building scalable, performant web and mobile applications with TypeScript, React
 
 ### 🧑‍💻 What I Do
 
-Currently **Senior Full Stack Engineer at [Proxy Foods](https://proxyfoods.ai/)** — co-leading frontend architecture, establishing component design patterns, Storybook, testing, and CI/CD. Driving technical decisions across the full stack while optimising performance, DX, and scalability.
+Currently **Senior Full Stack Engineer at [Proxy Foods](https://proxyfoods.ai/)** — co-leading frontend architecture, establishing component design patterns, Storybook, testing, and CI/CD. Driving technical decisions across the full stack while optimising performance, DX, and scalability. Building multi-agent AI orchestration with **LangGraph** for agent coordination and workflow automation across the platform.
 
 Also a **Software Engineering Team Lead & Mentor at [Masterschool](https://www.masterschool.com/)** — mentoring 50+ students, organizing hackathons, leading workshops, and conducting mock interviews.
 
-Previously shipped production systems at **Dr Glinz Covis**, **VASS**, **Accenture**, and **Deloitte**.
+Previously shipped production systems at **Dr Glinz Covis** — including durable, long-running TypeScript workflows on **Temporal.io** (state, retries, human-in-the-loop validation) — **VASS**, **Accenture**, and **Deloitte**.
 
 ---
 
@@ -50,6 +50,7 @@ Previously shipped production systems at **Dr Glinz Covis**, **VASS**, **Accentu
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Temporal.io](https://img.shields.io/badge/-Temporal.io-000?style=flat&logo=temporal&logoColor=white)
 
 **DevOps & Infra**
 
@@ -64,6 +65,8 @@ Previously shipped production systems at **Dr Glinz Covis**, **VASS**, **Accentu
 ![Claude](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?style=flat&logo=githubcopilot&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
@@ -81,8 +84,8 @@ Previously shipped production systems at **Dr Glinz Covis**, **VASS**, **Accentu
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **AI Recipe Platform** | AI-powered B2B recipe generation platform handling 10K+ daily generations with personalized nutrition recommendations | React, Python, FastAPI, Azure |
-| **TÜV Backoffice System** | Full-stack app for task management and integration of internal systems, used by 10,000+ employees | React, GraphQL, Hasura, PostgreSQL, Docker |
+| **AI Recipe Platform** | AI-powered B2B recipe generation platform handling 10K+ daily generations with personalized nutrition recommendations | React, Python, FastAPI, Azure, LangGraph |
+| **TÜV Backoffice System** | Full-stack app for task management and integration of internal systems, used by 10,000+ employees; durable inspection workflows on Temporal.io with human-in-the-loop validation | React, GraphQL, Hasura, PostgreSQL, Docker, Temporal.io |
 | **EU Council Simulation** | Interactive negotiation simulation game for the EU Council, used by 50K+ visitors annually | Angular, Phaser 3, Ionic, RxJS |
 | **Insurance Portal** | Web and mobile application for insurance management used by 50,000+ OTE employees | Angular, TailwindCSS, PrimeNG, Docker |
 | **TradeBot AI** | AI trading assistant with RAG and MCP protocol for customized data retrieval | Python, OpenSearch, Docker, AWS |
@@ -105,6 +108,7 @@ Previously shipped production systems at **Dr Glinz Covis**, **VASS**, **Accentu
 - **10K+** users served daily on systems I've built
 - **60%** database load reduction via GraphQL optimization
 - **45%** initial load time reduction through lazy loading & code splitting
+- **Multi-agent AI orchestration** — LangGraph (Proxy Foods) + durable Temporal.io workflows with HITL (Covis)
 - **Certified Trainer in AI** — Grow with Google
 
 ---
